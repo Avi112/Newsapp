@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## React Boilerplate
 
 Supports
@@ -18,3 +19,7 @@ To install the required dependencies
 To run the app
  	
 	$ npm run serv
+=======
+# Newsapp
+News application using MERN stack. API used for fetching news  is from newsorg.in
+>>>>>>> 2459b88bdd2e6523e9cdc306fc57d428bd87bf20
